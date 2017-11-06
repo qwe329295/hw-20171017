@@ -57,7 +57,7 @@ public class MainFrame extends JFrame{
                 }
                 if(repeat ==true){
                     i--;
-                    continue;
+                    
                 }
             }
             btn[10]=new JButton(".");
